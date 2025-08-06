@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ProfileCard from './ProfileCard';
 import AlexaImage from './images/alexa.png';
